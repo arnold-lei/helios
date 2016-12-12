@@ -1,6 +1,7 @@
 # Helios
 
-**TODO: Add description**
+##Introduction
+This is a simple weather app that is built with Elixir and OTP. I am getting my weather data from openweather.org. 
 
 ## Installation
 
@@ -21,4 +22,3 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
       [applications: [:helios]]
     end
     ```
-
